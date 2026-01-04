@@ -19,7 +19,7 @@ A portable, USB-friendly local LLM setup using Ollama.
 ## Credits
 - Ollama team
 - dolphin-llamma team
-- Inspired by: Cody Wabiszewski {YouTube}[https://www.youtube.com/@GlobalScienceNetwork] [Website]{https://www.gsnetwork.com/how-to-use-the-dolphin-llama-3-ollama-model/}
+- Inspired by: Cody Wabiszewski [YouTube](https://www.youtube.com/@GlobalScienceNetwork) [Website](https://www.gsnetwork.com/how-to-use-the-dolphin-llama-3-ollama-model/)
 
 ## LICENSE
 
