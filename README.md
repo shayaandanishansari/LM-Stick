@@ -19,17 +19,16 @@ A portable, USB-friendly local LLM setup using Ollama.
 ## Credits
 - Ollama team
 - dolphin-llamma team
-- Inspired by: Cody Wabiszewski YouTube[https://www.youtube.com/@GlobalScienceNetwork] Website[https://www.gsnetwork.com/how-to-use-the-dolphin-llama-3-ollama-model/]
+- Inspired by: Cody Wabiszewski {YouTube}[https://www.youtube.com/@GlobalScienceNetwork] [Website]{https://www.gsnetwork.com/how-to-use-the-dolphin-llama-3-ollama-model/}
 
 ## LICENSE
 
 LM Stick (this project) <br>
 Copyright (c) 2026 Shayaan Danish.<br> <br>
-Personal use: you may use, modify, and share LM Stick as long as you credit the creator (Shayaan Danish)
-Commercial use: contact shayaan0303@gmail.com for permission
+Personal use: you may use, modify, and share LM Stick as long as you credit the creator (Shayaan Danish)<br>
+Commercial use: contact shayaan0303@gmail.com for permission<br>
 No warranty: LM Stick is provided “as is”, without warranty <br> <br>
 
-Third-party components (separate licenses apply)
-Ollama: licensed under the MIT License. 
-GitHub <br>
-dolphin-llama3 (model weights): based on Meta Llama 3 and distributed under the Meta Llama 3 Community License (includes attribution + acceptable-use requirements)
+Third-party components (separate licenses apply) <br>
+Ollama: licensed under the MIT License.<br>
+dolphin-llama3 (model weights): based on Meta Llama 3 and distributed under the Meta Llama 3 Community License (includes attribution + acceptable-use requirements) <br> <br> <br>
