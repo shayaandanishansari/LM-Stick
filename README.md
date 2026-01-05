@@ -15,7 +15,7 @@ It is meant to serve as a portable self-contained LLM Model and runner with mini
 * Single exe runner for simplicity
  
 
-## How it works and How it came to be
+## How it works and how it came to be?
 
 I tend to have an affinity towards freedom, freedom of knowledge, freedom of speech and in general of freedom.
 
