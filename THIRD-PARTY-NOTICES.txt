@@ -1,0 +1,14 @@
+Third-Party Notices for LM Stick
+
+This distribution includes third-party components licensed separately by their respective owners.
+See the full license texts in ./licenses and the required attribution notice in ./NOTICE.txt.
+
+1) Ollama
+   - License: MIT License
+   - License text: ./licenses/OLLAMA-MIT-LICENSE.txt
+
+2) dolphin-llama3 (model weights)
+   - Based on: Meta Llama 3
+   - License: Meta Llama 3 Community License Agreement
+   - License text: ./licenses/META-LLAMA-3-COMMUNITY-LICENSE.txt
+   - Required attribution notice: ./NOTICE.txt
