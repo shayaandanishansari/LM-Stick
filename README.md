@@ -1,6 +1,6 @@
 # LM Stick (Windows)
 
-A portable, USB-friendly local LLM setup using Ollama. <br>
+A portable, USB-friendly local LLM setup using Ollama. <br> <br>
 [Download](https://pub-bfb26aaa51024d16b54830768efdd3af.r2.dev/LM_Stick.zip)
 
 ## What it does
