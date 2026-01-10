@@ -13,7 +13,13 @@ It is meant to serve as a portable self-contained LLM Model and runner with mini
 * Can run completely locally
 * No installation required
 * Setup once run from a single exe
- 
+
+## Instructions
+
+1. Download zip from [Download Link](https://pub-bfb26aaa51024d16b54830768efdd3af.r2.dev/LM_Stick.zip)
+2. Unzip folder into desired location (may be an external drive including a USB)
+3. Run setup.exe once (may skip step if ollama is already installed)
+4. Run run.exe each time to use the program 
 
 ## How it works and how it came to be?
 
