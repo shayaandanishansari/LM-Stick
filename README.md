@@ -19,7 +19,9 @@ It is meant to serve as a portable self-contained LLM Model and runner with mini
 1. Download zip from [Download Link](https://pub-bfb26aaa51024d16b54830768efdd3af.r2.dev/LM_Stick.zip)
 2. Unzip folder into desired location (may be an external drive including a USB)
 3. Run setup.exe once (may skip step if ollama is already installed)
-4. Run run.exe each time to use the program 
+4. Run run.exe each time to use the program
+5. You may create a run.exe shortcut, place it on Desktop and rename it to "LM Stick"
+6. You may change the ps1 scripts to suit your needs (e.g. change paths) and create executables
 
 ## How it works and how it came to be?
 
