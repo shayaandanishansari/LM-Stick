@@ -12,7 +12,7 @@ It is meant to serve as a portable self-contained LLM Model and runner with mini
 
 * Can run completely locally
 * No installation required
-* Single exe runner for simplicity
+* Setup once run from a single exe
  
 
 ## How it works and how it came to be?
@@ -38,6 +38,7 @@ They were very well put together, and I am very thankful there are so many other
 - **`ollama-bin/`** — contains `ollama.exe` (Server) and `ollama app.exe` (GUI)
 - **`ollama.exe serve`** — starts a local HTTP server, loads the model into memory, and exposes an API on your machine
 - **`ollama app.exe`** — the GUI that talks to the local Ollama server
+- **`setup.exe`** — LM Stick’s setup: creates required environment for ollama to work. ollama creates files in %USERPROFILE%
 - **`run.exe`** — LM Stick’s launcher: sets required environment variables, starts `ollama.exe` + `ollama app.exe`, and provides predictable shutdown
 - Download and unzip: [LM_Stick.zip](https://pub-bfb26aaa51024d16b54830768efdd3af.r2.dev/LM_Stick.zip)
 
@@ -49,7 +50,7 @@ You *can* create a shortcut to `run.exe` and place the shortcut anywhere.
 LM Stick <br>
 |---- .ollama (has models + history) <br>
 |---- ollama-bin (has ollama server + app)<br>
-|---- runners (runners source code) <br>
+|---- setup.exe <br>
 |---- run.exe
 
 ## Credits
